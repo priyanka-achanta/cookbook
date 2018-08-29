@@ -4,6 +4,6 @@ flour
 
 pastry
 
-=======
+
 milk
->>>>>>> priya
+
